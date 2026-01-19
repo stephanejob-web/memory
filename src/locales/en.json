@@ -1,0 +1,26 @@
+{
+    "title": "Memory Game",
+    "choosePairs": "Choose the number of pairs",
+    "pairs": "{{count}} pairs",
+    "cards": "({{count}} cards)",
+    "startGame": "Start Playing",
+    "newGame": "New Game",
+    "moves": "Moves: {{count}}",
+    "victory": "🎉 Congratulations! You won in {{count}} moves! 🎉",
+    "language": "Language",
+    "presentation": {
+        "welcome": "Welcome to the Memory Game!",
+        "description": "Memory is a classic card game that stimulates your memory and concentration. Test your abilities by finding all matching pairs of cards!",
+        "howToPlay": "How to play?",
+        "rule1": "Flip two cards on each turn",
+        "rule2": "If the cards match, they stay visible",
+        "rule3": "Otherwise, they flip back and you must remember their position",
+        "rule4": "Find all pairs in minimum moves",
+        "features": "Features:",
+        "feature1": "Multiple difficulty levels (4, 6 or 8 pairs)",
+        "feature2": "Colorful and fun interface",
+        "feature3": "Move counter to track your performance",
+        "feature4": "Available in 9 languages",
+        "letsPlay": "Let's Play!"
+    }
+}

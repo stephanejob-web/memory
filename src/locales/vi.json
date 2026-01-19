@@ -1,0 +1,26 @@
+{
+    "title": "Trò chơi Trí nhớ",
+    "choosePairs": "Chọn số lượng cặp",
+    "pairs": "{{count}} cặp",
+    "cards": "({{count}} thẻ)",
+    "startGame": "Bắt đầu chơi",
+    "newGame": "Ván mới",
+    "moves": "Nước đi: {{count}}",
+    "victory": "🎉 Chúc mừng! Bạn đã thắng trong {{count}} nước đi! 🎉",
+    "language": "Ngôn ngữ",
+    "presentation": {
+        "welcome": "Chào mừng đến với Trò chơi Trí nhớ!",
+        "description": "Memory là trò chơi bài cổ điển giúp kích thích trí nhớ và khả năng tập trung của bạn. Thử thách bản thân bằng cách tìm tất cả các cặp thẻ giống nhau!",
+        "howToPlay": "Cách chơi?",
+        "rule1": "Lật hai thẻ trong mỗi lượt",
+        "rule2": "Nếu các thẻ giống nhau, chúng sẽ hiển thị",
+        "rule3": "Nếu không, chúng sẽ lật ngược lại và bạn phải nhớ vị trí của chúng",
+        "rule4": "Tìm tất cả các cặp với số nước đi tối thiểu",
+        "features": "Tính năng:",
+        "feature1": "Nhiều cấp độ khó (4, 6 hoặc 8 cặp)",
+        "feature2": "Giao diện đầy màu sắc và thú vị",
+        "feature3": "Bộ đếm nước đi để theo dõi hiệu suất của bạn",
+        "feature4": "Có sẵn bằng 9 ngôn ngữ",
+        "letsPlay": "Bắt đầu chơi!"
+    }
+}

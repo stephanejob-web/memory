@@ -1,0 +1,26 @@
+{
+    "title": "Juego de Memoria",
+    "choosePairs": "Elige el número de parejas",
+    "pairs": "{{count}} parejas",
+    "cards": "({{count}} cartas)",
+    "startGame": "Empezar a jugar",
+    "newGame": "Nueva partida",
+    "moves": "Movimientos: {{count}}",
+    "victory": "🎉 ¡Felicidades! ¡Ganaste en {{count}} movimientos! 🎉",
+    "language": "Idioma",
+    "presentation": {
+        "welcome": "¡Bienvenido al Juego de Memoria!",
+        "description": "Memory es un juego de cartas clásico que estimula tu memoria y concentración. ¡Pon a prueba tus habilidades encontrando todas las parejas de cartas!",
+        "howToPlay": "¿Cómo jugar?",
+        "rule1": "Voltea dos cartas en cada turno",
+        "rule2": "Si las cartas coinciden, permanecen visibles",
+        "rule3": "De lo contrario, se voltean y debes recordar su posición",
+        "rule4": "Encuentra todas las parejas en el mínimo de movimientos",
+        "features": "Características:",
+        "feature1": "Múltiples niveles de dificultad (4, 6 u 8 parejas)",
+        "feature2": "Interfaz colorida y divertida",
+        "feature3": "Contador de movimientos para seguir tu rendimiento",
+        "feature4": "Disponible en 9 idiomas",
+        "letsPlay": "¡Juguemos!"
+    }
+}

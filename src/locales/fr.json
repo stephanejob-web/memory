@@ -1,0 +1,26 @@
+{
+    "title": "Jeu de Memory",
+    "choosePairs": "Choisissez le nombre de paires",
+    "pairs": "{{count}} paires",
+    "cards": "({{count}} cartes)",
+    "startGame": "Commencer à jouer",
+    "newGame": "Nouvelle partie",
+    "moves": "Coups: {{count}}",
+    "victory": "🎉 Bravo ! Vous avez gagné en {{count}} coups ! 🎉",
+    "language": "Langue",
+    "presentation": {
+        "welcome": "Bienvenue au Jeu de Memory !",
+        "description": "Le Memory est un jeu de cartes classique qui stimule votre mémoire et votre concentration. Testez vos capacités en trouvant toutes les paires de cartes identiques !",
+        "howToPlay": "Comment jouer ?",
+        "rule1": "Retournez deux cartes à chaque tour",
+        "rule2": "Si les cartes sont identiques, elles restent visibles",
+        "rule3": "Sinon, elles se retournent et vous devez mémoriser leur position",
+        "rule4": "Trouvez toutes les paires en un minimum de coups",
+        "features": "Caractéristiques :",
+        "feature1": "Plusieurs niveaux de difficulté (4, 6 ou 8 paires)",
+        "feature2": "Interface colorée et ludique",
+        "feature3": "Compteur de coups pour suivre vos performances",
+        "feature4": "Disponible en 9 langues",
+        "letsPlay": "Commençons !"
+    }
+}

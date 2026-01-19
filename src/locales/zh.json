@@ -1,0 +1,26 @@
+{
+    "title": "记忆游戏",
+    "choosePairs": "选择配对数量",
+    "pairs": "{{count}} 对",
+    "cards": "({{count}} 张卡片)",
+    "startGame": "开始游戏",
+    "newGame": "新游戏",
+    "moves": "移动次数: {{count}}",
+    "victory": "🎉 恭喜！您用 {{count}} 步赢得了游戏！🎉",
+    "language": "语言",
+    "presentation": {
+        "welcome": "欢迎来到记忆游戏！",
+        "description": "记忆游戏是一款经典的卡牌游戏，可以刺激您的记忆力和注意力。通过找到所有匹配的卡片对来测试您的能力！",
+        "howToPlay": "如何玩？",
+        "rule1": "每回合翻转两张卡片",
+        "rule2": "如果卡片匹配，它们将保持可见",
+        "rule3": "否则，它们会翻回去，您必须记住它们的位置",
+        "rule4": "用最少的步数找到所有配对",
+        "features": "特点：",
+        "feature1": "多个难度级别（4、6 或 8 对）",
+        "feature2": "多彩有趣的界面",
+        "feature3": "移动计数器可跟踪您的表现",
+        "feature4": "提供 9 种语言",
+        "letsPlay": "开始游戏！"
+    }
+}
